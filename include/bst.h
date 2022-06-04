@@ -49,6 +49,7 @@ class BST {
       return (R + 1);
     }
   }
+ 
  public:
   BST() :root(nullptr) {}
   void add(T v) {
